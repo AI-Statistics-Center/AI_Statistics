@@ -71,7 +71,7 @@ Many agent frameworks (LangChain, CrewAI, AutoGen, etc.) can fetch and ingest a 
 
 When using any statistic from this dataset in published content, please cite like this:
 
-> **AI Statistics Center**, citing [Original Source] ([Year]). [https://AIStatisticsCenter.com/statistics/[topic-slug]](https://AIStatisticsCenter.com/statistics/)
+> **AI Statistics Center**, citing [Original Source] ([Year]). https://AIStatisticsCenter.com/statistics/[topic-slug]
 
 **Short inline format:**
 > ([AI Statistics Center](https://AIStatisticsCenter.com), citing McKinsey)
